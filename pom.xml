@@ -14,22 +14,23 @@
         <module>gulimall-ware</module>
         <module>gulimall-member</module>
         <module>gulimall-order</module>
+        <module>renren-fast</module>
     </modules>
-    <repositories>
+   <!-- <repositories>
         <repository>
             <id>central</id>
             <name>aliyun maven</name>
             <url>http://maven.aliyun.com/nexus/content/groups/public/</url>
             <layout>default</layout>
-            <!-- 是否开启发布版构件下载 -->
+            &lt;!&ndash; 是否开启发布版构件下载 &ndash;&gt;
             <releases>
                 <enabled>true</enabled>
             </releases>
-            <!-- 是否开启快照版构件下载 -->
+            &lt;!&ndash; 是否开启快照版构件下载 &ndash;&gt;
             <snapshots>
                 <enabled>false</enabled>
             </snapshots>
         </repository>
-    </repositories>
+    </repositories>-->
 
 </project>
