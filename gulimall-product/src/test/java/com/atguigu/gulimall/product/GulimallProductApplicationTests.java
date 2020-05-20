@@ -11,5 +11,9 @@ public  class GulimallProductApplicationTests {
    public void contextLoads() {
 
     }
+    @Test
+    public void save() {
+
+    }
 
 }
